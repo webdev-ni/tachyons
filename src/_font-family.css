@@ -38,7 +38,7 @@
 }
 
 .sans-serif {
-  font-family: TradeGothicLTCom, -apple-system, BlinkMacSystemFont,
+  font-family: 'TradeGothicLTCom', -apple-system, BlinkMacSystemFont,
                'avenir next', avenir,
                'helvetica neue', helvetica,
                ubuntu,
@@ -87,6 +87,36 @@ code, .code {
 
 .avenir {
   font-family: 'avenir next', avenir,
+               sans-serif;
+}
+
+.trade-gothic-regular {
+  font-family: 'TradeGothicLTCom', -apple-system, BlinkMacSystemFont,
+               'avenir next', avenir,
+               'helvetica neue', helvetica,
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
+               sans-serif;
+}
+
+.trade-gothic-semi {
+  font-family: 'TradeGothicLTCom-Cn18', -apple-system, BlinkMacSystemFont,
+               'avenir next', avenir,
+               'helvetica neue', helvetica,
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
+               sans-serif;
+}
+
+.trade-gothic-bold {
+  font-family: 'TradeGothicLTCom-BdCn20', -apple-system, BlinkMacSystemFont,
+               'avenir next', avenir,
+               'helvetica neue', helvetica,
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
                sans-serif;
 }
 
