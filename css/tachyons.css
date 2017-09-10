@@ -387,7 +387,7 @@ img { max-width: 100%; }
 
 */
 .b--black { border-color: #000; }
-.b--near-black { border-color: #111; }
+.b--near-black { border-color: #2a2c2e; }
 .b--dark-gray { border-color: #333; }
 .b--mid-gray { border-color: #555; }
 .b--gray { border-color: #777; }
@@ -1143,7 +1143,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .white-20 { color: rgba( 255, 255, 255, .2 ); }
 .white-10 { color: rgba( 255, 255, 255, .1 ); }
 .black { color: #000; }
-.near-black { color: #111; }
+.near-black { color: #2a2c2e; }
 .dark-gray { color: #333; }
 .mid-gray { color: #555; }
 .gray { color: #777; }
@@ -1200,7 +1200,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .bg-white-10 { background-color: rgba( 255, 255, 255, .1 ); }
 /* Background colors */
 .bg-black { background-color: #000; }
-.bg-near-black { background-color: #111; }
+.bg-near-black { background-color: #2a2c2e; }
 .bg-dark-gray { background-color: #333; }
 .bg-mid-gray { background-color: #555; }
 .bg-gray { background-color: #777; }
@@ -1247,8 +1247,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
  */
 .hover-black:hover { color: #000; }
 .hover-black:focus { color: #000; }
-.hover-near-black:hover { color: #111; }
-.hover-near-black:focus { color: #111; }
+.hover-near-black:hover { color: #2a2c2e; }
+.hover-near-black:focus { color: #2a2c2e; }
 .hover-dark-gray:hover { color: #333; }
 .hover-dark-gray:focus { color: #333; }
 .hover-mid-gray:hover { color: #555; }
@@ -1306,8 +1306,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .hover-inherit:hover, .hover-inherit:focus { color: inherit; }
 .hover-bg-black:hover { background-color: #000; }
 .hover-bg-black:focus { background-color: #000; }
-.hover-bg-near-black:hover { background-color: #111; }
-.hover-bg-near-black:focus { background-color: #111; }
+.hover-bg-near-black:hover { background-color: #2a2c2e; }
+.hover-bg-near-black:focus { background-color: #2a2c2e; }
 .hover-bg-dark-gray:hover { background-color: #333; }
 .hover-bg-dark-gray:focus { background-color: #333; }
 .hover-bg-mid-gray:hover { background-color: #555; }
@@ -2021,7 +2021,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
    Colors
 
 */
-:root {/* CUSTOMIZED -- Default #999 *//* CUSTOMIZED -- Default #eee *//* CUSTOMIZED -- Default #f4f4f4 *//* CUSTOMIZED -- Default #ff4136 *//* CUSTOMIZED -- Default #19a974 *//* CUSTOMIZED -- Default #96ccff */ }
+:root {/* CUSTOMIZED -- Default #111 *//* CUSTOMIZED -- Default #999 *//* CUSTOMIZED -- Default #eee *//* CUSTOMIZED -- Default #f4f4f4 *//* CUSTOMIZED -- Default #ff4136 *//* CUSTOMIZED -- Default #19a974 *//* CUSTOMIZED -- Default #96ccff */ }
 /*
 
   CUSTOM MEDIA QUERIES
