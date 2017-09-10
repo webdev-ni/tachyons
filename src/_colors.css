@@ -12,7 +12,7 @@
 
 :root {
   --black: #000;
-  --near-black: #111;
+  --near-black: #2a2c2e; /* CUSTOMIZED -- Default #111 */
   --dark-gray:#333;
   --mid-gray:#555;
   --gray: #777;
