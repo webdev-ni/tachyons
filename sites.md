@@ -82,3 +82,6 @@
 * https://scottmathson.me
 * https://podviaznikov.com
 * https://hero-patterns.lowmess.com
+* https://colinwilson.uk
+* https://grodziski.com
+* https://hatchloyalty.com

@@ -45,9 +45,9 @@ You can always grab the latest version with
 ```html
 <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
 ```
-You can also specify a specific version. The latest version is 4.6.1
+You can also specify a specific version. The latest version is 4.8.1
 ```html
-<link rel="stylesheet" href="https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css">
+<link rel="stylesheet" href="https://unpkg.com/tachyons@4.8.1/css/tachyons.min.css">
 ```
 
 ### Local Setup
@@ -101,7 +101,10 @@ We love letting the community see what people are building so please add your li
 **Featured Sites**
 
 * https://interfacelovers.com
+* https://npmjs.com
+* https://womenwho.design
 * https://friendstalkfrontend.com
+* https://play.webvr.rocks
 * https://gohugo.io
 * https://coralproject.net
 * http://www.philipyoungg.com
@@ -120,7 +123,7 @@ And of course...
 
 ## Help
 
-If you have a question or need help feel free to open an issue here or jump into the [Tachyons slack channel](http://tachyons-slack-invite.herokuapp.com).
+If you have a question or need help feel free to [open an issue here](https://github.com/tachyons-css/tachyons/issues/new) or jump into the [Tachyons slack channel](http://tachyons-slack-invite.herokuapp.com).
 
 ## License
 
