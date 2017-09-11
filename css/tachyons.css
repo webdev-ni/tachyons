@@ -2021,7 +2021,6 @@ code, .code { font-family: Consolas, monaco, monospace; }
    Colors
 
 */
-:root {/* CUSTOMIZED -- Default #111 *//* CUSTOMIZED -- Default #999 *//* CUSTOMIZED -- Default #eee *//* CUSTOMIZED -- Default #f4f4f4 *//* CUSTOMIZED -- Default #ff4136 *//* CUSTOMIZED -- Default #19a974 *//* CUSTOMIZED -- Default #96ccff */ }
 /*
 
   CUSTOM MEDIA QUERIES
@@ -2054,6 +2053,14 @@ code, .code { font-family: Consolas, monaco, monospace; }
 
 */
 /* Media Queries */
+/* NI Overrides */
+/*
+
+   Tachyons
+   COLOR VARIABLES - Extended NI overrides
+
+*/
+:root {/* CUSTOMIZED -- Default #111 *//* CUSTOMIZED -- Default #999 *//* CUSTOMIZED -- Default #eee *//* CUSTOMIZED -- Default #f4f4f4 *//* CUSTOMIZED -- Default #ff4136 *//* CUSTOMIZED -- Default #19a974 *//* CUSTOMIZED -- Default #96ccff */ }
 /* Debugging */
 /*
 
