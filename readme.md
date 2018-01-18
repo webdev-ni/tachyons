@@ -45,9 +45,9 @@ You can always grab the latest version with
 ```html
 <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
 ```
-You can also specify a specific version. The latest version is 4.8.1
+You can also specify a specific version. The latest version is 4.9.1
 ```html
-<link rel="stylesheet" href="https://unpkg.com/tachyons@4.8.1/css/tachyons.min.css">
+<link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.1/css/tachyons.min.css">
 ```
 
 ### Local Setup
@@ -117,9 +117,19 @@ We love letting the community see what people are building so please add your li
 * https://purple3.herokuapp.com
 * http://blunt.af/tachy.app/
 * https://fenderdigital.github.io/css-utilities/intro/
+* https://play.cash
 
 And of course...
 * http://tachyons.io
+
+## Sponsors
+
+Development of Tachyons is supported by
+
+* [Digital Ocean](https://digitalocean.com)
+* [DWYL](https://dwyl.com)
+* [VTEX](https://lab.vtex.com)
+* [Manifold](https://manifold.co)
 
 ## Help
 
