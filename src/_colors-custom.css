@@ -1,0 +1,16 @@
+/*
+
+   Tachyons
+   COLOR VARIABLES - Extended NI overrides
+
+*/
+
+:root {
+  --near-black: #2a2c2e; /* CUSTOMIZED -- Default #111 */
+  --silver: #9ba7b3; /* CUSTOMIZED -- Default #999 */
+  --light-gray: #edf0f2; /* CUSTOMIZED -- Default #eee */
+  --near-white: #fafdff; /* CUSTOMIZED -- Default #f4f4f4 */
+  --red: #d64040; /* CUSTOMIZED -- Default #ff4136 */
+  --green: #26bf66; /* CUSTOMIZED -- Default #19a974 */
+  --light-blue: #419fd9; /* CUSTOMIZED -- Default #96ccff */
+}

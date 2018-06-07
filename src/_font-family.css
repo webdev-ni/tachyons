@@ -4,10 +4,41 @@
    Docs: http://tachyons.io/docs/typography/font-family/
 
 */
+@font-face {
+  font-family: 'TradeGothicLTCom';
+  src: url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom.eot');
+  src: url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom.eot?#iefix') format('embedded-opentype'),
+  url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom.woff') format('woff'),
+  url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom.ttf') format('truetype'),
+  url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 
+@font-face {
+  font-family: 'TradeGothicLTCom-Cn18';
+  src: url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom-Cn18.eot');
+  src: url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom-Cn18.eot?#iefix') format('embedded-opentype'),
+  url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom-Cn18.woff') format('woff'),
+  url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom-Cn18.ttf') format('truetype'),
+  url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom-Cn18.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TradeGothicLTCom-BdCn20';
+  src: url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom-BdCn20.eot');
+  src: url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom-BdCn20.eot?#iefix') format('embedded-opentype'),
+  url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom-BdCn20.woff') format('woff'),
+  url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom-BdCn20.ttf') format('truetype'),
+  url('https://www.native-instruments.com/typo3conf/ext/ni_assets/Resources/Public/Fonts/TradeGothicLTCom-BdCn20.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 
 .sans-serif {
-  font-family: -apple-system, BlinkMacSystemFont,
+  font-family: 'TradeGothicLTCom', -apple-system, BlinkMacSystemFont,
                'avenir next', avenir,
                'helvetica neue', helvetica,
                ubuntu,
@@ -59,6 +90,36 @@ code, .code {
                sans-serif;
 }
 
+.trade-gothic-regular {
+  font-family: 'TradeGothicLTCom', -apple-system, BlinkMacSystemFont,
+               'avenir next', avenir,
+               'helvetica neue', helvetica,
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
+               sans-serif;
+}
+
+.trade-gothic-semi {
+  font-family: 'TradeGothicLTCom-Cn18', -apple-system, BlinkMacSystemFont,
+               'avenir next', avenir,
+               'helvetica neue', helvetica,
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
+               sans-serif;
+}
+
+.trade-gothic-bold {
+  font-family: 'TradeGothicLTCom-BdCn20', -apple-system, BlinkMacSystemFont,
+               'avenir next', avenir,
+               'helvetica neue', helvetica,
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
+               sans-serif;
+}
+
 
 /* Serif Typefaces */
 
@@ -97,4 +158,3 @@ code, .code {
   font-family: baskerville,
                serif;
 }
-
